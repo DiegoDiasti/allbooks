@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules
 # Comentários começam com cerquilha (#)
 
@@ -9,3 +10,6 @@ node_modules
 
 # Ignorar arquivos de configuração específicos do ambiente
 .env
+=======
+node_modules
+>>>>>>> testes
